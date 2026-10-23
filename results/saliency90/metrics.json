@@ -1,0 +1,14 @@
+{
+  "seed": 0,
+  "criterion": "saliency",
+  "target_sparsity": 0.9,
+  "achieved_sparsity": 0.9,
+  "active_parameters": 16,
+  "total_prunable_parameters": 160,
+  "estimated_active_macs_per_example": 16,
+  "test_loss": 0.6202893113428398,
+  "test_accuracy": 0.7037037037037037,
+  "train_accuracy": 0.6395061728395062,
+  "epochs": 80,
+  "hidden_dim": 32
+}
